@@ -1,0 +1,15 @@
+cs/**/*.dll
+cs/**/*.so
+cs/**/*.dylib
+cs/**/*.hex
+cs/**/hex/**/*.sh
+cs/**/*.patch
+cs/**/*.txt
+
+pc-ble-driver/
+build/
+.vs/
+Debug/
+obj/
+bin/
+*VC.db

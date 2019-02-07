@@ -1,0 +1,20 @@
+Build information:
+
+* System: Darwin-15.6.0
+* Hostname: ChunMac.local
+* Timestamp: 2017-10-31 15:10:00 (YY-MM-DD HH:MM:SS, UTC)
+* Generator: Unix Makefiles
+* Build type: 
+* C Compiler: AppleClang (64-bit)
+* C++ Compiler: AppleClang (64-bit)
+* CMake version: 3.8.2
+* Boost version: 1.64.0
+* Boost libs: /usr/local/lib
+* SD API Versions: <SD_API_V5>
+* SWIG version: 3.0.12
+* Git repo: pc-ble-driver-java
+** Git revision: 0fa61624b699495b45f4f158e6f68b81562c6806
+** Git branch: experiment/advertise
+* Git repo: pc-ble-driver
+** Git revision: a70e5dc1d20edd057ccbac9a78c921ef7d0e4c24
+** Git branch: master
